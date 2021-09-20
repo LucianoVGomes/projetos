@@ -1,0 +1,66 @@
+body {
+    background-color: lightblue;
+    border: 3px solid black;
+    border-radius: 10px;
+
+}
+.titlle {
+    background-color: lightslategray;
+}
+.subtitle {
+    background-color: lightslategray;
+    border: black;
+    border-radius: 5px;
+}
+.subtitle, .post_Des, .post_DS2{
+    color: black;
+}
+.post_Des {
+    font-size: 16px ;
+    font-style: italic;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.post_DS2{
+    font-size: 16px ;
+    font-style: italic;
+    background-color: lightslategray;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 1px;
+}
+.Art {
+    background-color: lightslategray;
+}
+.par {
+    background-color: lightslategray;
+    margin-top: 1px;
+}
+.Bio {
+    background-color: lightslategray;
+    font-size: 25px;
+    font-style: arial;
+    margin-bottom: 1px;
+    border: black;
+    border-radius: 5px;
+}
+.b1 {
+    font-size: 15px;
+    font-style: arial;
+}
+.b2 {
+    font-size: 15px;
+    font-style: arial;
+}
+.b3 {
+    font-size: 15px;
+    font-style: arial;
+}
+.b4 {
+    font-size: 15px;
+    font-style: arial;
+}
+.b5 {
+    font-size: 15px;
+    font-style: arial;
+}
